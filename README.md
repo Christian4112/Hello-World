@@ -1,8 +1,8 @@
 ## Project Title
-# Hello-World
+Hello-World
 ----------------------
 **## Description **
-# Creating a sample repository :joy:
+Creating a sample repository 😊
 ----------------------
 **## How to Run Program **
 Hello_World/
@@ -10,7 +10,7 @@ Hello_World/
     │── README.md
 ----------------------
 **## Files Used **
-# N/A
+N/A
 ----------------------
 **## Additional Documentation**
 
