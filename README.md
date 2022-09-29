@@ -1,10 +1,10 @@
-##Project Title
+## Project Title
 Hello-World
 ----------------------
-##Description
+## Description
 Creating a sample repository 😊
 ----------------------
-##How to Run Program
+## How to Run Program
 Hello_World/
 └── 
     │── README.md
@@ -15,7 +15,7 @@ N/A
 ## Additional Documentation
 
 ----------------------
-##Versioning
+## Versioning
 
 ----------------------
 
